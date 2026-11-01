@@ -4,7 +4,7 @@
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
 int main(int argc, char *argv[]) {
-	double a,b,c,x1,x2 = 0.0;
+	double a = 0.0, b = 0.0, c = 0.0, x1 = 0.0, x2 = 0.0;
 	double delta = 0.0;
 	
 	printf("Podaj wspolczynnik a: \n");
